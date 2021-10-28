@@ -1,0 +1,17 @@
+/* your styles go here */
+.raduis_custom {
+  border-radius: 30px;
+  width: 100%;
+  overflow: hidden;
+  height: 102%;
+}
+
+button:focus {
+  outline: none;
+  color: rgb(255, 97, 97);
+  transition: 0.3s all;
+}
+
+.font-weight-bold {
+  font-size: 40px;
+}
